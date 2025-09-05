@@ -1,0 +1,1 @@
+# PokéTCG Starter (Next.js + Tailwind + Worker)\n無料・サーバーレスで動くスターターです。\n\n## セットアップ\n```\nnpm ci\nnpm run dev\n```\nhttp://localhost:3000 へ。\n\n## ビルド（Cloudflare Pages想定）\n```\nnpm run build\n```\n`./out` をデプロイしてください。\n
